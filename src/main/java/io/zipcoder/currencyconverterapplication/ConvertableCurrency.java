@@ -8,5 +8,5 @@ public interface ConvertableCurrency {
 
     public CurrencyType getCurrency();
 
-
+//this is Lena's comment
 }
