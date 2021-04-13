@@ -10,4 +10,5 @@ public interface ConvertableCurrency {
 
 //this is Lena's comment
     //2 comment
+    //comment for presentation
 }
